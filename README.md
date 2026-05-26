@@ -5,7 +5,7 @@
 ### Autonomous Offline Tactical Intelligence System for Modern Warfare Simulation
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2a25dc9f-f641-4060-a4fd-1d5a085f2f68" alt="AI Battlefield Co-Pilot Dashboard" width="100%">
+  <img width="1618" height="814" alt="image" src="https://github.com/user-attachments/assets/936741c0-f41a-4d5e-975e-958e52b0c4b3" />
 </p>
 
 ![React](https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge)
